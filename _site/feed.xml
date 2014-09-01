@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OPM</title>
+    <description>Open PostgreSQL Monitoring is a free software designed to help you manage your PostgreSQL servers. It's a flexible tool that will follow the activity of each instance. It  can gather stats, display dashboards  and send emails when something goes wrong. It aims to be similar to Oracle Enterprise Manager or MySQL Workbench.</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 26 Aug 2014 11:27:18 +0200</pubDate>
+    <lastBuildDate>Tue, 26 Aug 2014 11:27:18 +0200</lastBuildDate>
+    <generator>Jekyll v2.2.0</generator>
+    
+      <item>
+        <title>Slow_queries</title>
+        <description>
+</description>
+        <pubDate>Fri, 18 Jul 2014 00:00:00 +0200</pubDate>
+        <link>/2014/07/18/slow_queries/</link>
+        <guid isPermaLink="true">/2014/07/18/slow_queries/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Graph</title>
+        <description>
+</description>
+        <pubDate>Mon, 14 Jul 2014 00:00:00 +0200</pubDate>
+        <link>/2014/07/14/graph/</link>
+        <guid isPermaLink="true">/2014/07/14/graph/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Time</title>
+        <description>
+</description>
+        <pubDate>Sun, 13 Jul 2014 00:00:00 +0200</pubDate>
+        <link>/2014/07/13/time/</link>
+        <guid isPermaLink="true">/2014/07/13/time/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

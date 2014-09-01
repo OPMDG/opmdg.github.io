@@ -1,0 +1,11 @@
+# Site settings
+title: OPM
+email: contact@opm.io
+description: "Open PostgreSQL Monitoring is a free software designed to help you manage your PostgreSQL servers. It's a flexible tool that will follow the activity of each instance. It  can gather stats, display dashboards  and send emails when something goes wrong. It aims to be similar to Oracle Enterprise Manager or MySQL Workbench."
+twitter_username: opmdg
+github_username:  opmdg
+ga_id: UA-637331-12
+
+# Build settings
+markdown: kramdown
+permalink: pretty
