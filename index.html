@@ -1,20 +1,14 @@
----
-layout: default
----
-
-<div class="home">
-
-  <h1>Postsss</h1>
-
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>OPM</title>
+    <script>
+     window.location.href = "https://opm.readthedocs.io/";
+    </script>
+  </head>
+  <body>
+    This website as moved.  Please go to <a href="https://opm.readthedocs.io">
+      opm.readthedocs.io</a>.
+  </body>
+</html>
